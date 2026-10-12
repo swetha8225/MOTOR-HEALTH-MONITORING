@@ -1,0 +1,21 @@
+MOTOR HEALTH MONITORING - SENSOR ANALYSIS
+=============================================
+Generated: 2026-10-12 10:24:25
+
+Comparison of motor OFF and motor ON sensor features
+---------------------------------------------
+mean: OFF=3.5446, ON=1.6064, difference=-1.9382
+std: OFF=0.0342, ON=5.5845, difference=+5.5503
+rms: OFF=3.5448, ON=5.8333, difference=+2.2885
+peak: OFF=3.6369, ON=10.4346, difference=+6.7977
+peak_to_peak: OFF=0.1748, ON=19.4454, difference=+19.2706
+kurtosis: OFF=0.0053, ON=-0.9084, difference=-0.9137
+crest_factor: OFF=1.0260, ON=1.7886, difference=+0.7626
+
+OBSERVATION
+---------------------------------------------
+The motor-on measurements show substantially greater variation and signal range than the motor-off measurements.
+
+LIMITATION
+---------------------------------------------
+These measurements indicate a difference between operating conditions, not a confirmed mechanical fault. Sensor mounting, orientation, electrical noise, and operating conditions may affect the readings. Further controlled testing is required.
